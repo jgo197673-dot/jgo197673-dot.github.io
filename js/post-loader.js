@@ -160,9 +160,9 @@
     const script = document.createElement('script');
     script.src = 'https://giscus.app/client.js';
     script.setAttribute('data-repo', 'jgo197673-dot/jgo197673-dot.github.io');
-    script.setAttribute('data-repo-id', 'YOUR_REPO_ID'); // Giscus 설정 후 업데이트 필요
+    script.setAttribute('data-repo-id', 'R_kgDOQedFMw'); // Giscus 설정 후 업데이트 필요
     script.setAttribute('data-category', 'General');
-    script.setAttribute('data-category-id', 'YOUR_CATEGORY_ID'); // Giscus 설정 후 업데이트 필요
+    script.setAttribute('data-category-id', 'DIC_kwDOQedFM84CzIy-'); // Giscus 설정 후 업데이트 필요
     script.setAttribute('data-mapping', 'pathname');
     script.setAttribute('data-strict', '0');
     script.setAttribute('data-reactions-enabled', '1');
